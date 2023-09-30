@@ -16,6 +16,13 @@
 | 机型 | MacPro7,1 |
 
 ## 更新记录
+### 2023-10-01
+- 更新opencore 0.9.5
+- 更新所有驱动
+- 更新[AirportItlwm-Sonoma-Preview05.zip](https://github.com/OpenIntelWireless/itlwm/issues/883)
+- 系统更新到Sonoma 14.0 (23A344)
+
+
 ### 2023-05-10
 - 更新opencore 0.9.2
 - 系统更新到Ventura 13.3.1 (a)
